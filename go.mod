@@ -1,4 +1,4 @@
-module main
+module Sprint12th
 
 go 1.25.0
 
